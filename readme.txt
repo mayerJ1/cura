@@ -1,0 +1,2 @@
+主文件包含3个目录：curaEngine，clipper与main文件夹。
+目前最大的问题在于在main函数里链接静态库链接不上，这种问题在linux上是不存在的，这就说明，在windows里的编译规则与linux中不同。
